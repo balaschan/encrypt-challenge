@@ -1,4 +1,4 @@
-# league-backend-challenge-app
+# encrypt-challenge-app
 
  [Spring Boot](http://projects.spring.io/spring-boot/)  app.
 
